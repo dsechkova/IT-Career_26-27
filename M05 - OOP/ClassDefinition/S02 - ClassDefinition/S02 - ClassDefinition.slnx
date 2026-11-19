@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="P01 - Person/P01 - Person.csproj" />
+  <Project Path="P02 - BankAccount/P02 - BankAccount.csproj" />
+  <Project Path="P03 - Family/P03 - Family.csproj" Id="add7249c-cb59-419d-8cfd-998a8849f2e5" />
+  <Project Path="P04 - RacionalNums/P04 - RacionalNums.csproj" Id="0ce889d4-18b0-4724-a91a-77e88baefd11" />
+  <Project Path="P05 - EvenNumbers/P05 - EvenNumbers.csproj" Id="2e0c6980-9292-4ca6-a7ed-1af0675b4cbb" />
+  <Project Path="P06 - Reflection/P06 - Reflection.csproj" Id="baf92211-7255-41c5-b047-a0bab502d069" />
+</Solution>
