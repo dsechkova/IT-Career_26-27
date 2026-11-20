@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Box2/Box2.csproj" Id="5f6f8d2d-a249-427d-8aec-3ab88dd5bcea" />
+  <Project Path="P01 - Box/P01 - Box.csproj" />
+  <Project Path="P02 - BoxOfEverything/P02 - BoxOfEverything.csproj" />
+  <Project Path="P03 - ArrayCreator/P03 - ArrayCreator.csproj" Id="255d1b26-81da-483b-ae03-683e3474eb95" />
+</Solution>
