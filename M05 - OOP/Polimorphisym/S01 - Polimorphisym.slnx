@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="P01 - MathOperations/P01 - MathOperations.csproj" />
+  <Project Path="P02 - Animals/P02 - Animals.csproj" />
+  <Project Path="P03 - Shapes/P03 - Shapes.csproj" />
+  <Project Path="P04 - Animals2/P04 - Animals2.csproj" />
+</Solution>
