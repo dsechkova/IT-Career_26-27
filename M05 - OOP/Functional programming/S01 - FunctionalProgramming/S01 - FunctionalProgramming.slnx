@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="P01 - Odd Nums/P01 - OddNums.csproj" />
+  <Project Path="P02 - Sorting Words/P02 - SortingWords.csproj" />
+  <Project Path="P03 -/P03 - FoldAndSum.csproj" />
+</Solution>
